@@ -1,0 +1,11 @@
+{
+  "name": "datagrab",
+  "version": "1.0.0",
+  "description": "pull email data from doc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Ramos",
+  "license": "ISC"
+}
